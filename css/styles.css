@@ -6,7 +6,7 @@ body {
 
 ul,
 ol {
-  .img {
+img {
     display: block;
   }
   list-style-type: none;
