@@ -8,8 +8,6 @@ ul,
 ol {
   .img {
     display: block;
-    width: 300px;
-    height: auto;
   }
   list-style-type: none;
   margin: 0;
